@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "com.unity.package-manager-ui": "2.1.2",
+    "jp.keijiro.klak.ndi": "https://github.com/keijiro/KlakNDI.git#upm"
+  },
+  "lock": {
+    "jp.keijiro.klak.ndi": {
+      "hash": "96f1c7eec6944decbd0ad862d63d8dd1cc946ddf",
+      "revision": "upm"
+    }
+  }
+}
